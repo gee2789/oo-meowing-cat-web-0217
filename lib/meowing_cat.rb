@@ -9,4 +9,9 @@ class Cat
   def meow
     puts "meow!"
   end
+
+  def nothing
+    puts ""
+  end
+  
 end
